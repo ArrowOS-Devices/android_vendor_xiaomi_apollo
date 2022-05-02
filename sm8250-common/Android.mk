@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter alioth apollo cas cmi elish enuma lmi thyme umi,$(TARGET_DEVICE)),)
+ifneq ($(filter alioth apollo apollon cas cmi elish enuma lmi thyme umi,$(TARGET_DEVICE)),)
 
 endif
